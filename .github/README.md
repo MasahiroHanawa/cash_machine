@@ -12,6 +12,7 @@ It simulate of cash machine.
     $ composer install
     $ cp .env.example .env
     $ php artisan key:generate
+    $ php artisan serve
 
 ## Browser test
 
